@@ -144,7 +144,7 @@ if ($result->num_rows > 0) {
         input[type="submit"] {
             width: 100%;
             cursor: pointer;
-            background: #eaeaea;
+            background: #d9f0d9;
             color: #000;
             border: none;
             padding: 12px;
@@ -154,7 +154,7 @@ if ($result->num_rows > 0) {
         }
         
         input[type="submit"]:hover {
-            background:rgb(217, 217, 217);
+            background: #d9f0d9;
         }
 
         /* Tablet styles */
